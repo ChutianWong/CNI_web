@@ -1,22 +1,17 @@
 <center>
 
-## Differentiable Imaging: a new tool for computational optical imaging
+## Computational neuromorphic imaging: Principles and applications
 
-Advanced Physics Research, 2023
+Proceedings Volume 12857, Computational Optical Imaging and Artificial Intelligence in Biomedical Sciences; 1285703 (2024) https://doi.org/10.1117/12.3012192
+Event: SPIE BiOS, 2024, San Francisco, California, United States
 
-<a href="https://ni-chen.github.io/" class="author">Ni Chen</a><sup>1</sup>, <a href="http://www.holoddd.com/" class="author">Liangcai Cao</a><sup>2</sup>, <a href="https://sites.google.com/vt.edu/oshandholographiclab/" class="author">T.-C. Poon</a><sup>3</sup>, <a href="http://oeqelab.snu.ac.kr/PROF" class="author">Byoungho Lee</a><sup>4</sup>, <a href="https://www.eee.hku.hk/~elam/" class="author">Edmund Y. Lam</a><sup>5</sup>
+<a href="https://ni-chen.github.io/" class="author">Shuo Zhu, Chutian Wang, Haosen Liu, Pei Zhang,  <a href="https://www.eee.hku.hk/~elam/" class="author">Edmund Y. Lam</a><sup>*</sup>
 
 </center>
 
 
 
 <center>
-
-## Differentiable Imaging: Progress, Challenges, and Outlook
-
- Advanced Devices & Instrumentation, 2025
-
-<a href="https://ni-chen.github.io/" class="author">Ni Chen</a><sup>1</sup>, <a href="" class="author">David J. Brady</a><sup>2</sup>, <a href="https://www.eee.hku.hk/~elam/" class="author">Edmund Y. Lam</a><sup>1</sup>
 
 </center>
 
