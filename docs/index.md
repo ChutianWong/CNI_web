@@ -4,7 +4,7 @@ title: "Differentiable Imaging"
 ---
 
 
-<h2 class="section-title">Computational neuromorphic imaging: principles and applications
+<h2 class="section-title">Computational neuromorphic imaging
 <div class="text-center" style="width: 100%; font-size: 0.8em; color: #666; margin-top: 4px;">
 <em>From resilient to co-designed computational imaging</em>
 </div>
@@ -17,47 +17,33 @@ title: "Differentiable Imaging"
 
 <br>
 <nav class="text-center" style="width: 100%; font-size:1.2em;">
-📄 <b><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/apxr.202200118">Differentiable Imaging: A New Tool for Computational Optical Imaging</a></b>, <em>Advanced Physics Research</em>, 2023</nav>
+📄 <b><a href="[https://onlinelibrary.wiley.com/doi/full/10.1002/apxr.202200118](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12857/1285703/Computational-neuromorphic-imaging-principles-and-applications/10.1117/12.3012192.short)">Computational neuromorphic imaging: principles and applications</a></b>, <em>Advanced Physics Research</em>, 2023</nav>
 <nav class="text-center">
-  <a href="https://ni-chen.github.io/">Ni Chen</a><sup>1,2</sup>, 
-  <a href="http://www.holoddd.com/">Liangcai Cao</a><sup>3</sup>, 
-  <a href="https://www.ece.vt.edu/people/profile/poon">Ting-Chung Poon</a><sup>4</sup>, 
-  <a href="http://oeqelab.snu.ac.kr/">Byoungho Lee</a><sup>5</sup>, 
-  <a href="https://www.eee.hku.hk/~elam">Edmund Y. Lam</a><sup>6</sup>
-</nav>
-<div style="text-align: center; width: 100%; font-size: 0.9em; color: #666;">
-  <p style="margin: 2px 0;"><sup>1</sup>King Abdullah University of Science and Technology</p>
-  <p style="margin: 2px 0;"><sup>2</sup>University of Arizona</p>
-  <p style="margin: 2px 0;"><sup>3</sup>Tsinghua University</p>
-  <p style="margin: 2px 0;"><sup>4</sup>Virginia Tech</p>
-  <p style="margin: 2px 0;"><sup>5</sup>Seoul National University</p>
-  <p style="margin: 2px 0;"><sup>6</sup>The University of Hong Kong</p>
-</div>
-
-
-<nav class="text-center" style="width: 100%; font-size:1.2em;"> 📄 <b><a href="https://spj.science.org/doi/10.34133/adi.0117">Differentiable Imaging: Progress, Challenges, and Outlook</a></b>, <em>Advanced Devices & Instrumentation</em>, 2025 </nav>
-<nav class="text-center">
-  <a href="https://ni-chen.github.io/">Ni Chen</a><sup>1</sup>,
-  <a href="http://www.davidbrady.net/">David J. Brady</a><sup>2</sup>,
+  <a href="https://scholar.google.com.hk/citations?view_op=list_works&hl=en&hl=en&user=uR0gBNcAAAAJ">Shuo Zhu</a><sup>1</sup>, 
+  <a href="https://scholar.google.com.hk/citations?hl=en&user=YrNzoXgAAAAJ">Chutian Wang</a><sup>1</sup>, 
+  <a href="https://scholar.google.com.hk/citations?user=cWDMPtsAAAAJ&hl=en">Haosen Liu</a><sup>1</sup>, 
+  <a href="https://scholar.google.com.hk/citations?user=Haaxgp0AAAAJ&hl=en">Pei Zhang</a><sup>1</sup>, 
   <a href="https://www.eee.hku.hk/~elam">Edmund Y. Lam</a><sup>1</sup>
 </nav>
 <div style="text-align: center; width: 100%; font-size: 0.9em; color: #666;">
   <p style="margin: 2px 0;"><sup>1</sup>The University of Hong Kong</p>
-  <p style="margin: 2px 0;"><sup>2</sup>University of Arizona</p>
 </div>
+
+
+
 
 
 
 ## Abstract
 
-Differentiable Imaging is a framework that seamlessly integrates optical hardware with computational algorithms to address critical challenges in traditional computational imaging. By leveraging differentiable programming, this approach enables end-to-end optimization of the whole imaging systems while accounting for real-world physical imperfections. The differentiable imaging framework leads to simplified hardware designs, enhanced imaging performance, and resilience imaging across diverse imaging modalities. The differentiable linkage among all system components ultimately enables genuine co-design in computational imaging.
+Computational neuromorphic imaging (CNI), which integrates event cameras, optics, and computational models, represents a promising frontier in optical imaging. The CNI technique makes use of event sensors that encompass time-efficient imaging, high dynamic range reconstruction, and high-sensitivity sensing, and is ideally suitable for detecting ultrafast dynamic information and is robust to challenging environments. CNI encompasses ultrafast dynamic analysis, high-sensitivity sensing, and energy efficiency, offering the transformative potential for academic research and industrial applications from micro to macro settings.
 
 ## Introduction
 
 
-<!-- | <img src="img/uncertainty.png" alt="Sources of uncertainty in computational imaging systems" class="center" style="width: 600px;"> |
+<!-- | <img src="img/CNI_framework.png" alt="Sources of uncertainty in computational imaging systems" class="center" style="width: 600px;"> |
 | :----------------------------------------------------------: |
-| Uncertainties that lead to mismatch between real systems and numerical modeling. | -->
+| A generic computational neuromorphic imaging system. | -->
 
 
 
