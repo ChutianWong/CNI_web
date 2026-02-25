@@ -47,7 +47,7 @@ Computational neuromorphic imaging (CNI), which integrates event cameras, optics
 | A generic computational neuromorphic imaging system. | -->
 
 
-| <img src="img/CNI_framework.png" alt="Sources of uncertainty in computational imaging systems" class="center" style="width: 600px;"> |
+| <img src="img/CNI_framework.png" alt="Sources of uncertainty in computational imaging systems" class="center" style="width: 666px;"> |
 | :----------------------------------------------------------: |
 | A generic computational neuromorphic imaging system. | 
 
