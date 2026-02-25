@@ -17,7 +17,7 @@ title: "Differentiable Imaging"
 
 <br>
 <nav class="text-center" style="width: 100%; font-size:1.2em;">
-📄 <b><a href="[https://onlinelibrary.wiley.com/doi/full/10.1002/apxr.202200118](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12857/1285703/Computational-neuromorphic-imaging-principles-and-applications/10.1117/12.3012192.short)">Computational neuromorphic imaging: principles and applications</a></b>, <em>Advanced Physics Research</em>, 2023</nav>
+📄 <b><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12857/1285703/Computational-neuromorphic-imaging-principles-and-applications/10.1117/12.3012192.short">Computational neuromorphic imaging: principles and applications</a></b>, <em>Computational Optical Imaging and Artificial Intelligence in Biomedical Sciences, volume 12857 of Proceedings of the SPIE, pp. 1285703</em>, January 2024</nav>
 <nav class="text-center">
   <a href="https://scholar.google.com.hk/citations?view_op=list_works&hl=en&hl=en&user=uR0gBNcAAAAJ">Shuo Zhu</a><sup>1</sup>, 
   <a href="https://scholar.google.com.hk/citations?hl=en&user=YrNzoXgAAAAJ">Chutian Wang</a><sup>1</sup>, 
