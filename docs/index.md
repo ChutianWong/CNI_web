@@ -47,10 +47,14 @@ Computational neuromorphic imaging (CNI), which integrates event cameras, optics
 | A generic computational neuromorphic imaging system. | -->
 
 
-
-| <img src="img/uncertainty.gif" alt="Sources of uncertainty in computational imaging systems" class="center" style="width: 100%;"> |
+| <img src="img/CNI_framework.png" alt="Sources of uncertainty in computational imaging systems" class="center" style="width: 600px;"> |
 | :----------------------------------------------------------: |
-| Typical Uncertainties that lead to mismatch. |
+| A generic computational neuromorphic imaging system. | 
+
+
+<!-- | <img src="img/uncertainty.gif" alt="Sources of uncertainty in computational imaging systems" class="center" style="width: 100%;"> |
+| :----------------------------------------------------------: |
+| Typical Uncertainties that lead to mismatch. | -->
 
 Computational imaging has made significant advances but continues to face substantial challenges from system uncertainties. These uncertainties can be categorized into five key areas:
 
