@@ -6,7 +6,7 @@ title: "Differentiable Imaging"
 
 <h2 class="section-title">Computational neuromorphic imaging
 <div class="text-center" style="width: 100%; font-size: 0.8em; color: #666; margin-top: 4px;">
-<em>From resilient to co-designed computational imaging</em>
+<em>A new imaging paradigm to shape conventional optical imaging</em>
 </div>
 </h2>
 
