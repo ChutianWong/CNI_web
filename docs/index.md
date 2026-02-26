@@ -55,7 +55,7 @@ Computational neuromorphic imaging (CNI), which integrates event cameras, optics
 ## Technical Framework
 
 
-| <img src="img/NeuroSR_Pei.png" alt="Neuromophic Super-resolution framework" class="center" style="width: 650px;"> |
+| <img src="img/NeuroSR_Pei.png" alt="Neuromophic Super-resolution framework" class="center" style="width:  100%;"> |
 | :----------------------------------------------------------: |
 | Neuromorphic imaging with Super-resolution. (a) Neuromorphic microscopy system. (b)–(d) From left to right: raw image, raw LR events, SR events, and reconstructed image.  
 
@@ -68,7 +68,7 @@ Neuromorphic imaging is an emerging technique that imitates the human retina to 
 ## Research Achievements
 
 
-| <img src="img/EVK-HKU.png" alt="Collobration with Prophesee" class="center" style="width: 650px;"> |
+| <img src="img/EVK-HKU.png" alt="Collobration with Prophesee" class="center" style="width:  100%;"> |
 | :----------------------------------------------------------: |
 | **URL:** [**Collobration**  ](https://www.prophesee.ai/2025/02/20/neuromorphic-imaging-with-super-resolution/) |
 
