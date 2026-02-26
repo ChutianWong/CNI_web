@@ -12,7 +12,7 @@ title: "Differentiable Imaging"
 
 
 <a href="https://en.wikipedia.org/wiki/Differentiable_imaging" target="_blank" rel="noopener">
-	<img src="https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia" style="width: 100px; height: 100px; float: right; margin-left: 12px; margin-bottom: 6px; margin-top: -80px" />
+	<!-- <img src="https://upload.wikimedia.org/wikipedia/en/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia" style="width: 100px; height: 100px; float: right; margin-left: 12px; margin-bottom: 6px; margin-top: -80px" /> -->
 </a>
 
 <br>
