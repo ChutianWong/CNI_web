@@ -70,7 +70,7 @@ Neuromorphic imaging is an emerging technique that imitates the human retina to 
 
 | <img src="img/EVK-HKU.png" alt="Collobration with Prophesee" class="center" style="width: 650px;"> |
 | :----------------------------------------------------------: |
-| **URL:** [**Collobration:**  ](https://www.prophesee.ai/2025/02/20/neuromorphic-imaging-with-super-resolution/) |
+| **URL:** [**Collobration**  ](https://www.prophesee.ai/2025/02/20/neuromorphic-imaging-with-super-resolution/) |
 
 
 
