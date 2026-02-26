@@ -55,7 +55,7 @@ Computational neuromorphic imaging (CNI), which integrates event cameras, optics
 ## Technical Framework
 
 
-| <img src="img/NeuroSR_Pei.png" alt="Neuromophic Super-resolution framework" class="center" style="width:  100%;"> |
+| <img src="img/NeuroSR_Pei.png" alt="Neuromophic Super-resolution framework" class="center" style="width:  700px;"> |
 | :----------------------------------------------------------: |
 | Neuromorphic imaging with Super-resolution. (a) Neuromorphic microscopy system. (b)–(d) From left to right: raw image, raw LR events, SR events, and reconstructed image.  
 
