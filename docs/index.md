@@ -1,7 +1,3 @@
----
-layout: project
-title: "Differentiable Imaging"
----
 
 
 <h2 class="section-title">Computational neuromorphic imaging
@@ -59,7 +55,6 @@ Computational neuromorphic imaging (CNI), which integrates event cameras, optics
 | <img src="img/NeuroSR_Pei.png" alt="Neuromophic Super-resolution framework" class="center" style="width: 650px;"> |
 | :----------------------------------------------------------: |
 | (a) Neuromorphic microscopy system. (b)–(d) From left to right: raw image, raw LR events, SR events, and reconstructed image.  
-| **URL:** [https://your-website-or-paper-link](https://www.prophesee.ai/2025/02/20/neuromorphic-imaging-with-super-resolution/) |
 
 
 Neuromorphic imaging is an emerging technique that imitates the human retina to sense variations in dynamic scenes. It responds to pixel-level brightness changes by asynchronous streaming events and boasts microsecond temporal precision over a high dynamic range, yielding blur-free recordings under extreme illumination. Nevertheless, this modality falls short in spatial resolution and leads to a low level of visual richness and clarity. Pursuing hardware upgrades is expensive and might cause compromised performance due to more burdens on computational requirements. Another option is to harness offline, plug-in-play super-resolution solutions. However, existing ones, which demand substantial sample volumes for lengthy training on massive computing resources, are largely restricted by real data availability owing to the current imperfect highresolution devices, as well as the randomness and variability of motion. To tackle these challenges, we introduce the first selfsupervised neuromorphic super-resolution prototype[^1]. It can be self-adaptive to per input source from any low-resolution camera to estimate an optimal, high-resolution counterpart of any scale, without the need of side knowledge and prior training.
@@ -69,7 +64,8 @@ Neuromorphic imaging is an emerging technique that imitates the human retina to 
 
 ## Research Achievements
 
-**Collobration with Prophesee:**  
+
+| **URL:** [**Collobration with Prophesee:**  ](https://www.prophesee.ai/2025/02/20/neuromorphic-imaging-with-super-resolution/) |
 
 
 
